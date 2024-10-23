@@ -28,9 +28,9 @@ The dataset I'll be working with will have the following key columns:
 ### **Data Analysis Goals**:
 1. **Calculate Total Sales by Month**
 2. **Identify the Best-Selling Product**
-3. **Find the Most Profitable Product**
-4. **Analyze Sales by City**
-5. **Analyze Sales by Country**
+3. **Analyze Sales by City**
+4. **Analyze Sales by Country**
+5. **Find the Most Profitable Product**
 6. **Determine the Best Time to Advertise/Sell**
 
 ---
