@@ -1,7 +1,7 @@
 ### **Data Analysis Mini Project: PC Parts Sales**
 
 #### **Project Overview**:
-In this project, I will work with a **mock PC parts sales dataset** to test and improve my Pandas and Seaborn skills. The project focuses on tasks like **data cleaning**, **transformation**, and **analysis**. By handling real-world data challenges such as missing values and formatting, I will gain deeper insights into pc parts sales performance.
+In this project, I will work with a **mock PC parts sales dataset** to test and improve my Pandas skills. The project focuses on tasks like **data cleaning**, **transformation**, and **analysis**. By handling real-world data challenges such as missing values and formatting, I will gain deeper insights into pc parts sales performance.
 
 ---
 
@@ -34,10 +34,6 @@ The dataset I'll be working with will have the following key columns:
 6. **Determine the Best Time to Advertise/Sell**
 
 ---
-
-### **Tools I’ll Use**:
-- **Pandas**: For data cleaning, aggregation, and analysis.
-- **Optional (Seaborn)**: To create visualizations of the sales trends.
 
 This project will help me practice data manipulation techniques, draw insights from raw data, and refine my data analysis skills.
 
