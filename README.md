@@ -30,8 +30,7 @@ The dataset I'll be working with will have the following key columns:
 2. **Identify the Best-Selling Product**
 3. **Analyze Sales by City**
 4. **Analyze Sales by Country**
-5. **Determine Where Products Are Sold Most**
-6. **Determine the Best Time to Advertise/Sell**
+5. **Determine What Countries Individual Products Are Sold Most**
 
 ---
 
