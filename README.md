@@ -34,6 +34,4 @@ The dataset I'll be working with will have the following key columns:
 
 ---
 
-This project will help me practice data manipulation techniques, draw insights from raw data, and refine my data analysis skills.
-
 *Mock data was generated using [Mockaroo](https://www.mockaroo.com/)*
